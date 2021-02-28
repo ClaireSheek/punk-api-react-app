@@ -3,7 +3,7 @@ import { FaHeart } from 'react-icons/fa'
 
 const Beers = () => {
   const [beers, setBeers] = useState([]);
-  const [color, setColor] = useState("red");
+  const [color, setColor] = useState("#d8d8d8");
 
   useEffect(() => {
     fetch('https://api.punkapi.com/v2/beers')
