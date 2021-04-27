@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/punk-api-react-app/static/css/main.0ae2003c.chunk.css",
+    "main.js": "/punk-api-react-app/static/js/main.beed9f26.chunk.js",
+    "main.js.map": "/punk-api-react-app/static/js/main.beed9f26.chunk.js.map",
+    "runtime-main.js": "/punk-api-react-app/static/js/runtime-main.62b33325.js",
+    "runtime-main.js.map": "/punk-api-react-app/static/js/runtime-main.62b33325.js.map",
+    "static/js/2.de04d2e8.chunk.js": "/punk-api-react-app/static/js/2.de04d2e8.chunk.js",
+    "static/js/2.de04d2e8.chunk.js.map": "/punk-api-react-app/static/js/2.de04d2e8.chunk.js.map",
+    "static/js/3.53233684.chunk.js": "/punk-api-react-app/static/js/3.53233684.chunk.js",
+    "static/js/3.53233684.chunk.js.map": "/punk-api-react-app/static/js/3.53233684.chunk.js.map",
+    "index.html": "/punk-api-react-app/index.html",
+    "static/css/main.0ae2003c.chunk.css.map": "/punk-api-react-app/static/css/main.0ae2003c.chunk.css.map",
+    "static/js/2.de04d2e8.chunk.js.LICENSE.txt": "/punk-api-react-app/static/js/2.de04d2e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62b33325.js",
+    "static/js/2.de04d2e8.chunk.js",
+    "static/css/main.0ae2003c.chunk.css",
+    "static/js/main.beed9f26.chunk.js"
+  ]
+}
